@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>Alura plus</title>
+        <meta charset="UTF-8">
+        <meta name="viopoet"content=´´width=divese-width,initil-scale=1``>
+        <link rel="sstylesheet"href=´´style.css``>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https: //fonts.googleapis.com/css2? family= Inter:wght@400;700 & display=swap" rel="stylesheet"> 
+      </head>
+
+    <body>
+      <section class="conteiner principal">
+      <div>
+      <h1>class=´´conteiner__titulo``>com o combo+, voce pode aproveitar o alura+ e o alura plas com um preço 
+          unico.</h1>
+      <h1 class="conte">com o combo+,voce pode aproveita o alura+ e o alura linguas por um preço unico.</h1>  
+      <img src="img/combo.png"alt=´´o combo+ e a junção do alura+ e do alura linguas``claas="conteiner__imagem">
+      <a href="www.alura.com.br"class=´´conteiner__botão``>assine por 12x de R$ 120,00*
+      <a href="www.alura.com.br"class=´´conteiner__botãobotão_secundario`> Asssinar somente o alura+</a>
+      <p class="conteiner__aviso">* O preço pode variar a assinatura seja feita em outros planoa.</p>
+    </div>
+  </section>
+
+  <section class="conteiner secundario"
+</img src="img/Plataformas.png" alt="um monitor e um celular com o alura plus aberto" class="secundario__imagem">
+<div class="conteiner__descrição"
+  </body>
+
+</html
